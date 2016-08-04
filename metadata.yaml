@@ -1,0 +1,28 @@
+_repo: Zen-and-the-Art-of-the-Internet_34
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kehoe, Brendan P.
+    birthdate: 1970
+    deathdate: 2011
+    gutenberg_agent_id: '29'
+    url: http://www.gutenberg.org/2009/agents/29
+    wikipedia: http://en.wikipedia.org/wiki/Brendan_Kehoe
+description: ''
+gutenberg_issued: '1992-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Information networks'
+- !lcsh 'Internet'
+- !lcsh 'Information retrieval'
+- !lcc 'TK'
+- !lcsh 'Computer networks'
+- GITenberg
+title: Zen and the Art of the Internet
+url: http://www.gutenberg.org/ebooks/34
