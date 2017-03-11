@@ -1,5 +1,8 @@
 _repo: Zen-and-the-Art-of-the-Internet_34
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kehoe, Brendan P.
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/29
     wikipedia: http://en.wikipedia.org/wiki/Brendan_Kehoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34#Zen-and-the-Art-of-the-Internet
 gutenberg_issued: '1992-06-01'
 gutenberg_type: Text
 identifiers:
